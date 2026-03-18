@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-1
+name: tenfoldmarc-demo-1
 description: "Tenfold AI Step 1: Welcome & Orientation. Introduces new users to Claude Code — what it is, what it can do, and what the setup process looks like. Start here if you're brand new."
 ---
 
@@ -20,13 +20,13 @@ Say this:
 >
 > | Step | What it does | Command |
 > |------|-------------|---------|
-> | 1 | Welcome & orientation (you're here!) | `/tenfoldmarc-1` |
-> | 2 | Build your personal CLAUDE.md file | `/tenfoldmarc-2` |
-> | 3 | Learn how to think with Claude Code | `/tenfoldmarc-3` |
-> | 4 | Install your first skills | `/tenfoldmarc-4` |
-> | 5 | Set up voice mode | `/tenfoldmarc-5` |
-> | 6 | Your first real task | `/tenfoldmarc-6` |
+> | 1 | Welcome & orientation (you're here!) | `/tenfoldmarc-demo-1` |
+> | 2 | Build your personal CLAUDE.md file | `/tenfoldmarc-demo-2` |
+> | 3 | Learn how to think with Claude Code | `/tenfoldmarc-demo-3` |
+> | 4 | Install your first skills | `/tenfoldmarc-demo-4` |
+> | 5 | Set up voice mode | `/tenfoldmarc-demo-5` |
+> | 6 | Your first real task | `/tenfoldmarc-demo-6` |
 >
 > You can do them all now (about 15 minutes) or come back to any step anytime.
 >
-> Ready to keep going? Run `/tenfoldmarc-2` and I'll start getting to know you.
+> Ready to keep going? Run `/tenfoldmarc-demo-2` and I'll start getting to know you.

@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-3
+name: tenfoldmarc-demo-3
 description: "Tenfold AI Step 3: How to think with Claude Code. Teaches new users the mental model — give tasks not questions, provide context, use multi-step instructions. The mindset shift that separates power users from everyone else."
 ---
 
@@ -39,4 +39,4 @@ Wait for their response. If they have questions, answer them. If they want to tr
 
 Then:
 
-> **Step 3 complete!** You now know how to talk to Claude Code like a power user. Run `/tenfoldmarc-4` to install your first skills — this is where it gets really fun.
+> **Step 3 complete!** You now know how to talk to Claude Code like a power user. Run `/tenfoldmarc-demo-4` to install your first skills — this is where it gets really fun.

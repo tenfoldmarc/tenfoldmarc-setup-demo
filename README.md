@@ -10,7 +10,7 @@ Built by [@tenfoldmarc](https://instagram.com/tenfoldmarc)
 claude install-skill https://github.com/tenfoldmarc/tenfoldmarc-setup-demo
 ```
 
-Then type `/tenfoldmarc-setup` to start the full walkthrough.
+Then type `/tenfoldmarc-demo-setup` to start the full walkthrough.
 
 ## What's Different From the Real Version
 

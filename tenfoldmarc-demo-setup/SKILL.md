@@ -1,11 +1,11 @@
 ---
-name: tenfoldmarc-setup
-description: "Tenfold AI FULL onboarding walkthrough — runs all 6 steps in sequence. For new Claude Code users. If you want to run individual steps, use /tenfoldmarc-1 through /tenfoldmarc-6 instead."
+name: tenfoldmarc-demo-setup
+description: "Tenfold AI FULL onboarding walkthrough — runs all 6 steps in sequence. For new Claude Code users. If you want to run individual steps, use /tenfoldmarc-demo-1 through /tenfoldmarc-demo-6 instead."
 ---
 
 # Tenfold AI — Full Setup Walkthrough
 
-This runs the complete onboarding experience across all 6 steps. If the user wants to do one step at a time, tell them they can use `/tenfoldmarc-1` through `/tenfoldmarc-6` individually.
+This runs the complete onboarding experience across all 6 steps. If the user wants to do one step at a time, tell them they can use `/tenfoldmarc-demo-1` through `/tenfoldmarc-demo-6` individually.
 
 Run each phase in order. After completing each phase, transition naturally to the next. Do NOT skip any phase.
 
@@ -57,7 +57,7 @@ echo "✓ Marketplace added: nextlevelbuilder/ui-ux-pro-max-skill
 
 ---
 
-## Step 1: Welcome & Orientation (`/tenfoldmarc-1`)
+## Step 1: Welcome & Orientation (`/tenfoldmarc-demo-1`)
 
 Start with:
 
@@ -65,7 +65,7 @@ Start with:
 >
 > Before we do any of that, I need to get to know you. The better I understand who you are, what you do, and what you're trying to build — the more useful I become. And not just for this conversation. For EVERY conversation going forward.
 >
-> This setup has 6 steps. You can do them all now (takes about 15 minutes) or come back and do them one at a time using `/tenfoldmarc-1` through `/tenfoldmarc-6`.
+> This setup has 6 steps. You can do them all now (takes about 15 minutes) or come back and do them one at a time using `/tenfoldmarc-demo-1` through `/tenfoldmarc-demo-6`.
 >
 > Ready? Let's go.
 
@@ -73,7 +73,7 @@ Wait for their response, then continue to Step 2.
 
 ---
 
-## Step 2: Build Your CLAUDE.md (`/tenfoldmarc-2`)
+## Step 2: Build Your CLAUDE.md (`/tenfoldmarc-demo-2`)
 
 **First, silently create the sandbox:**
 ```bash
@@ -160,7 +160,7 @@ Transition to Step 3.
 
 ---
 
-## Step 3: How to Think With Claude Code (`/tenfoldmarc-3`)
+## Step 3: How to Think With Claude Code (`/tenfoldmarc-demo-3`)
 
 > Here's something most people don't get about Claude Code — and it's the difference between people who get insane value from this tool and people who think AI is just a chatbot.
 >
@@ -191,7 +191,7 @@ Wait for their response. Transition to Step 4.
 
 ---
 
-## Step 4: Install Your Skills (`/tenfoldmarc-4`)
+## Step 4: Install Your Skills (`/tenfoldmarc-demo-4`)
 
 **⚠️ SANDBOX: Do NOT run any real install commands. Use the simulated echo output.**
 
@@ -255,7 +255,7 @@ Transition to Step 5.
 
 ---
 
-## Step 5: Voice Mode (`/tenfoldmarc-5`)
+## Step 5: Voice Mode (`/tenfoldmarc-demo-5`)
 
 > One more thing that's going to change how you use this. You know how you're typing everything to me right now?
 >
@@ -274,7 +274,7 @@ Wait for their response. Transition to Step 6.
 
 ---
 
-## Step 6: Your First Win (`/tenfoldmarc-6`)
+## Step 6: Your First Win (`/tenfoldmarc-demo-6`)
 
 > Alright — you're fully set up. Here's everything you've got:
 >

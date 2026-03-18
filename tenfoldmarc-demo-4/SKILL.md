@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-4
+name: tenfoldmarc-demo-4
 description: "Tenfold AI Step 4: Install your first skills. Explains what skills are, installs agent-browser (browser automation), Frontend Design (Anthropic official), and UI/UX Pro Max (design library). Also teaches how to install skills on your own."
 ---
 
@@ -77,7 +77,7 @@ echo "✓ Marketplace added: nextlevelbuilder/ui-ux-pro-max-skill
 >
 > As you go through the Tenfold AI modules, you'll discover more skills and even learn to create your own from scratch.
 >
-> **Step 4 complete!** You now have browser automation and a pro design stack. Run `/tenfoldmarc-5` to learn about voice mode.
+> **Step 4 complete!** You now have browser automation and a pro design stack. Run `/tenfoldmarc-demo-5` to learn about voice mode.
 
 ## Rules
 - **NEVER run real install commands.** Always use echo to simulate.

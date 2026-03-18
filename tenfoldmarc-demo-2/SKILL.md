@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-2
+name: tenfoldmarc-demo-2
 description: "Tenfold AI Step 2: Build your CLAUDE.md. Asks 12 questions about who you are, your business, clients, tools, pain points, and goals — then creates your personalized CLAUDE.md file so Claude knows you in every future conversation."
 ---
 
@@ -95,7 +95,7 @@ I'm [name]. [Their description of what they do, written in first person, natural
 >
 > You can update this file anytime — just tell me "update my CLAUDE.md" and I'll edit it. As your business changes, this file changes with you.
 >
-> **Step 2 complete!** Run `/tenfoldmarc-3` to learn how to get the most out of Claude Code.
+> **Step 2 complete!** Run `/tenfoldmarc-demo-3` to learn how to get the most out of Claude Code.
 
 ## Rules
 - If they provide a website or social links, acknowledge them: "Nice, I can see you're at [domain] — I'll remember that."

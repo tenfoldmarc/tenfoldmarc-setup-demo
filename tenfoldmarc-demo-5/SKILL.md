@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-5
+name: tenfoldmarc-demo-5
 description: "Tenfold AI Step 5: Voice Mode. Shows users they can talk to Claude Code instead of typing. Explains /voice command, hold-spacebar-to-talk, and when voice mode is most useful."
 ---
 
@@ -29,4 +29,4 @@ Wait for their response. If they try it, let them experiment and celebrate the m
 
 Then:
 
-> **Step 5 complete!** Now for the best part — run `/tenfoldmarc-6` and let's put all of this to work. You're about to see what Claude Code can actually do.
+> **Step 5 complete!** Now for the best part — run `/tenfoldmarc-demo-6` and let's put all of this to work. You're about to see what Claude Code can actually do.

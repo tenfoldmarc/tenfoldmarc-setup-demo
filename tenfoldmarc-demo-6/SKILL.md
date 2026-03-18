@@ -1,5 +1,5 @@
 ---
-name: tenfoldmarc-6
+name: tenfoldmarc-demo-6
 description: "Tenfold AI Step 6: Your First Win. Recaps everything that's been set up, then gives the user 4 options for their first real task — website audit, landing page build, competitor analysis, or their own idea. Actually executes the task using installed tools."
 ---
 
