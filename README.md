@@ -4,10 +4,24 @@ Demo version of the Tenfold AI onboarding for Claude Code. Use this for recordin
 
 Built by [@tenfoldmarc](https://instagram.com/tenfoldmarc)
 
-## Quick Install
+## Install
 
+**Easiest way:** Open Claude Code and say:
+
+> Install this skill for me: https://github.com/tenfoldmarc/tenfoldmarc-setup-demo
+
+Claude will handle the rest.
+
+**Or do it yourself:**
+
+Mac/Linux:
 ```bash
-claude install-skill https://github.com/tenfoldmarc/tenfoldmarc-setup-demo
+git clone https://github.com/tenfoldmarc/tenfoldmarc-setup-demo.git ~/.claude/commands/tenfoldmarc-demo-setup
+```
+
+Windows:
+```bash
+git clone https://github.com/tenfoldmarc/tenfoldmarc-setup-demo.git %USERPROFILE%\.claude\commands\tenfoldmarc-demo-setup
 ```
 
 Then type `/tenfoldmarc-demo-setup` to start the full walkthrough.
